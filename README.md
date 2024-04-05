@@ -102,7 +102,7 @@ QML/QT APIs
 3D graphic concepts in DirectX 12
 </li>
 <li>
-game engine logger, global pointers, settings
+game engine logger, pointer provider, settings
 </li>
 <li>
 Windows platform core/XAML concepts ready template
@@ -129,6 +129,126 @@ Modern C++ notes
 </li>
 <li>
 Modern C++ examples
+</li>
+</ul>
+</details>
+<table>
+<tr>
+<td><a href="https://github.com/s-mehrdad/next-shoper">next-shoƥer</a></td>
+<td>next-shoƥer web application</td>
+</tr>
+</table>
+<details>
+<summary>Next web application template</summary>
+<ul>
+<li>
+Web application UI and menus
+</li>
+<li>
+Web application structure, login and components
+</li>
+<li>
+Next web application features
+</li>
+</ul>
+</details>
+<table>
+<tr>
+<td><a href="https://github.com/s-mehrdad/Packers">Packers</a></td>
+<td>Packers demo game</td>
+</tr>
+</table>
+<details>
+<summary>Packers console game</summary>
+<ul>
+<li>
+C++ console game application
+</li>
+<li>
+Clean coded funny 2D game application
+</li>
+<li>
+GameEngine introduction, characters game and game-play
+</li>
+<li>
+Game demo about environment
+</li>
+</ul>
+</details>
+<table>
+<tr>
+<td><a href="https://github.com/s-mehrdad/PracticalGuide">PracticalGuide</a></td>
+<td>Programmers Practical Guide</td>
+</tr>
+</table>
+<details>
+<summary>Guide of most important tools</summary>
+<ul>
+<li>
+Keybindings and shortcuts
+</li>
+<li>
+Git simple guide
+</li>
+<li>
+PowerShell, CMD and Terminal quick guide
+</li>
+<li>
+Snippets
+</li>
+</ul>
+</details>
+<table>
+<tr>
+<td><a href="https://github.com/s-mehrdad/QMLApp">QMLApp</a></td>
+<td>QML template and features</td>
+</tr>
+</table>
+<details>
+<summary>Qt QML practical template</summary>
+<ul>
+<li>
+QML UI template
+</li>
+<li>
+QML features, components and application structure
+</li>
+</ul>
+</details>
+<table>
+<tr>
+<td><a href="https://github.com/s-mehrdad/QtApp">QtApp</a></td>
+<td>Qt template and features</td>
+</tr>
+</table>
+<details>
+<summary>Qt practical template</summary>
+<ul>
+<li>
+Qt UI template
+</li>
+<li>
+Qt features, components and application structure
+</li>
+<li>
+Google Test library
+</li>
+</ul>
+</details>
+<table>
+<tr>
+<td><a href="https://github.com/s-mehrdad/QtIntroduction">QtIntroduction</a></td>
+<td>Qt simple application</td>
+</tr>
+</table>
+<details>
+<summary>Qt learning notes and features</summary>
+<ul>
+<li>
+Qt UI introduction
+</li>
+<li>
+Qt features and basics
 </li>
 </ul>
 </details>
