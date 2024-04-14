@@ -5,7 +5,7 @@ In this brief hard worked source of knowledge resource, I have tried to be quick
 ### Contents
 <table>
 <tr>
-<td><a href="https://github.com/s-mehrdad/CMakeIntroduction">CMakeIntroduction</a></td>
+<td><a href="https://github.com/s-mehrdad/CMakeIntroduction">CMake Introduction</a></td>
 <td>CMake build system</td>
 </tr>
 </table>
@@ -28,7 +28,7 @@ simple CPP example
 </details>
 <table>
 <tr>
-<td><a href="https://github.com/s-mehrdad/CplusPlus">CplusPlus</a></td>
+<td><a href="https://github.com/s-mehrdad/CplusPlus">C++</a></td>
 <td>C++ language</td>
 </tr>
 </table>
@@ -48,7 +48,7 @@ C++ examples
 </details>
 <table>
 <tr>
-<td><a href="https://github.com/s-mehrdad/DirectXIntroduction">DirectXIntroduction</a></td>
+<td><a href="https://github.com/s-mehrdad/DirectXIntroduction">DirectX Introduction</a></td>
 <td>DirectX graphic library</td>
 </tr>
 </table>
@@ -91,7 +91,7 @@ QML/QT APIs
 </details>
 <table>
 <tr>
-<td><a href="https://github.com/s-mehrdad/GameEngine">GameEngine</a></td>
+<td><a href="https://github.com/s-mehrdad/GameEngine">Game Engine</a></td>
 <td>DirectX/WinRT core-XAML game engine project</td>
 </tr>
 </table>
@@ -114,7 +114,7 @@ C++ syntax
 </details>
 <table>
 <tr>
-<td><a href="https://github.com/s-mehrdad/ModernCplusPlus">ModernCplusPlus</a></td>
+<td><a href="https://github.com/s-mehrdad/ModernCplusPlus">Modern C++</a></td>
 <td>Modern C++ language</td>
 </tr>
 </table>
@@ -134,12 +134,12 @@ Modern C++ examples
 </details>
 <table>
 <tr>
-<td><a href="https://github.com/s-mehrdad/next-shoper">next-shoƥer</a></td>
-<td>next-shoƥer web application</td>
+<td><a href="https://github.com/s-mehrdad/next-shoper">Next Shoƥer</a></td>
+<td>Next Shoƥer web application</td>
 </tr>
 </table>
 <details>
-<summary>Next web application template</summary>
+<summary>Next web app template</summary>
 <ul>
 <li>
 Web application UI and menus
@@ -177,7 +177,7 @@ Game demo about environment
 </details>
 <table>
 <tr>
-<td><a href="https://github.com/s-mehrdad/PracticalGuide">PracticalGuide</a></td>
+<td><a href="https://github.com/s-mehrdad/PracticalGuide">Practical Guide</a></td>
 <td>Programmers Practical Guide</td>
 </tr>
 </table>
@@ -200,7 +200,7 @@ Snippets
 </details>
 <table>
 <tr>
-<td><a href="https://github.com/s-mehrdad/QMLApp">QMLApp</a></td>
+<td><a href="https://github.com/s-mehrdad/QMLApp">QML App</a></td>
 <td>QML template and features</td>
 </tr>
 </table>
@@ -217,7 +217,7 @@ QML features, components and application structure
 </details>
 <table>
 <tr>
-<td><a href="https://github.com/s-mehrdad/QtApp">QtApp</a></td>
+<td><a href="https://github.com/s-mehrdad/QtApp">Qt App</a></td>
 <td>Qt template and features</td>
 </tr>
 </table>
@@ -237,7 +237,7 @@ Google Test library
 </details>
 <table>
 <tr>
-<td><a href="https://github.com/s-mehrdad/QtIntroduction">QtIntroduction</a></td>
+<td><a href="https://github.com/s-mehrdad/QtIntroduction">Qt Introduction</a></td>
 <td>Qt simple application</td>
 </tr>
 </table>
@@ -249,6 +249,109 @@ Qt UI introduction
 </li>
 <li>
 Qt features and basics
+</li>
+</ul>
+</details>
+<table>
+<tr>
+<td><a href="https://github.com/s-mehrdad/reactasp-shoper">React ASP Shoƥer</a></td>
+<td>React ASP Shoƥer web application</td>
+</tr>
+</table>
+<details>
+<summary>React ASP web app template</summary>
+<ul>
+<li>
+MVC, Razor and ASP core web application structure
+</li>
+<li>
+React fronted features
+</li>
+<li>
+ASP C# backend datasets and features
+</li>
+</ul>
+</details>
+<table>
+<tr>
+<td><a href="https://github.com/s-mehrdad/swift-apps">Swift Apps</a></td>
+<td>Swift application templates</td>
+</tr>
+</table>
+<details>
+<summary>Simple Swift templates</summary>
+<ul>
+<li>
+Swift basic features and syntax
+</li>
+<li>
+Swift concepts
+</li>
+</ul>
+</details>
+<table>
+<tr>
+<td><a href="https://github.com/s-mehrdad/vue-shoper">Vue Shoƥer</a></td>
+<td>Vue Shoƥer web application</td>
+</tr>
+</table>
+<details>
+<summary>Vue Shoƥer web app template</summary>
+<ul>
+<li>
+Vue web application features and components
+</li>
+<li>
+Vue web application structure
+</li>
+<li>
+Web application media style
+</li>
+</ul>
+</details>
+<table>
+<tr>
+<td><a href="https://github.com/s-mehrdad/vue-webapp">Vue Web App</a></td>
+<td>Vue web app</td>
+</tr>
+</table>
+<details>
+<summary>Vue web application notes</summary>
+<ul>
+<li>
+Vue web application syntax
+</li>
+<li>
+Vue web application notes
+</li>
+<li>
+Vue web application how-to
+</li>
+</ul>
+</details>
+<table>
+<tr>
+<td><a href="https://github.com/s-mehrdad/WebApps">Web Apps</a></td>
+<td>Web application features</td>
+</tr>
+</table>
+<details>
+<summary>Web Application technologies and notes</summary>
+<ul>
+<li>
+HTML, CSS JavaScript syntax and notes
+</li>
+<li>
+React and Next syntax and notes
+</li>
+<li>
+NodeJS syntax and notes
+</li>
+<li>
+PHP syntax and notes
+</li>
+<li>
+Web Components and features built on above technologies
 </li>
 </ul>
 </details>
